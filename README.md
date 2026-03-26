@@ -30,7 +30,7 @@ CareSplit is a fintech-health solution that allows patients to split hospital bi
 - Make payments
 - Track payment history
 
-### Provider Dashboard (Hospitals/Clinics)
+### Provider Dashboard (Hospitals/Clinics) (Coming Soon)
 - Register patients
 - Generate and manage bills
 - Track patient payments
