@@ -1,25 +1,79 @@
-# CareSplit---MVP
-CareSplit - A Fintech-Health Web App platform that enables patients to split hospital bills into installments.
-# CareSplit 💙
+# CareSplit MVP
 
-CareSplit is a fintech-healthcare web app that allows patients to access treatment immediately and pay hospital bills in installments.
+## Problem Statement
+Access to healthcare is often delayed because patients cannot afford to pay hospital bills upfront. Many people abandon treatment or avoid hospitals entirely due to financial constraints.
 
-## Problem
-Many patients cannot afford upfront hospital bills, leading to delayed treatment.
+---
 
 ## Solution
-CareSplit enables users to split medical bills into structured payments.
+CareSplit is a fintech-health solution that allows patients to split hospital bills into manageable installments, enabling access to care without immediate full payment.
 
-## Features
+---
+
+## Target Users
+- Patients
+- Hospitals & Clinics
+- Healthcare Providers
+
+---
+
+## Key Features
 - Dashboard
 - Bill Splitting
 - Payment Plans
 - Payment Tracking
+- Manage Payment Plan
 
-## Payment Integration
-Powered by Interswitch Payment Gateway.
+### Patient Dashboard
+- View hospital bills
+- Split bills into installments
+- Make payments
+- Track payment history
 
-## Team
-- Product Lead
-- Designers
-- Developers
+### Provider Dashboard (Hospitals/Clinics)
+- Register patients
+- Generate and manage bills
+- Track patient payments
+- Confirm transactions
+
+---
+
+## Interswitch Integration
+- Payment processing using Interswitch Payment Gateway (IPG)
+- Secure transaction handling
+- Real-time payment confirmation
+
+---
+
+## Tech Stack
+- Frontend: (e.g., React / HTML / CSS)
+- Backend: (e.g., Node.js)
+- API Integration: Interswitch APIs
+- Design: Figma
+
+---
+
+## MVP Status
+This is a working MVP built for the Enyata x Interswitch Hackathon. Core features are functional and demo-ready.
+
+---
+
+## Demo Plan
+- User logs in (Patient or Provider)
+- Patient views bill and selects installment plan
+- Payment is processed via Interswitch
+- Provider dashboard updates in real-time
+
+---
+
+## Team Members
+- Product Designer:
+- Developer(s):
+- Product Manager:
+
+---
+
+## Future Improvements
+- Credit scoring system
+- Automated reminders for payments
+- Integration with insurance providers
